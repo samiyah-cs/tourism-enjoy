@@ -29,4 +29,4 @@ A full-stack tourism and travel management platform developed as a university gr
 - Database design and management.
 - User interface design and responsive development.
 - System analysis and software engineering practices.
-- ![Project Dashboard](medias/dashboard.PNG)
+- ![Project Dashboard](medias/dashboard)
