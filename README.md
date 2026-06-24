@@ -2,6 +2,9 @@
 
 A full-stack tourism and travel management platform developed as a university graduation project. The system was designed to improve the travel experience by providing destination exploration, trip planning, booking management, and administrative content management features.
 
+##  Project Previews
+![Project Dashboard](medias/dashboard.PNG)
+
 ## Key Features
 - Interactive travel planning and itinerary management.
 - Destination and tourism package browsing.
