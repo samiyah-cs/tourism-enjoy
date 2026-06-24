@@ -12,7 +12,7 @@ A full-stack tourism and travel management platform developed as a university gr
 
  Destinations Page
 
- ![Home](./medias/destinations.png)
+ ![Home](./medias/destination.png)
 
  Admin Dashboard
 
